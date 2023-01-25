@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    width: 50%;
+background-color: white;
+    .headertel{
+        display: flex;
+        background-color: #FFB606;
+        // width: 200px;
+    }
+    .link{
+        a{
+            margin: 10px;
+        }
+     
+    }
+}
